@@ -8,7 +8,7 @@
 
 🌱 I have a passion for UI/UX design and I am excited to grow as a front-end developer. My goal in the industry is to do good work with good people and contribute to making the digital world a more accessible place.  
 
-👀 Some other interests I have include Operating Systems, Machine Learning, processor design, and computer security. Here on my Github you can find some related projects.  
+👀 Some of my other interests include Operating Systems, Machine Learning, processor design, and computer security. Here on my Github you can find some related projects.  
 
 🔌 Connect with me on [LinkedIn](https://www.linkedin.com/in/angelica-consengco)!
 
