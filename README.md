@@ -6,7 +6,7 @@
 
 🌟 I value *communication, learning, and simplicity.*  
 
-🌱 I have a passion for UI/UX design and I am excited to grow as a front-end developer in the industry doing good work with good people and contribute to making the digital world a more accessible place.  
+🌱 I have a passion for UI/UX design and I am excited to grow as a front-end developer. My goal in the industry is to do good work with good people and contribute to making the digital world a more accessible place.  
 
 👀 Some other interests I have include Operating Systems, Machine Learning, processor design, and computer security. Here on my Github you can find some related projects.  
 
